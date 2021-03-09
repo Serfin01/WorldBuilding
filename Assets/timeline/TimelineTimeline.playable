@@ -4036,7 +4036,7 @@ MonoBehaviour:
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 5.000000000000001
+    m_BlendOutDuration: 4.750000000000001
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -4078,15 +4078,15 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: followcar1
   - m_Version: 1
-    m_Start: 4.05
+    m_Start: 4.3
     m_ClipIn: 0
     m_Asset: {fileID: 4763106587677762731}
-    m_Duration: 6.166666666666667
+    m_Duration: 5.916666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6757794468948643505}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 5.000000000000001
+    m_BlendInDuration: 4.750000000000001
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
